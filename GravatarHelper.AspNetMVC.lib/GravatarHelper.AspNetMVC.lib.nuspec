@@ -2,11 +2,11 @@
 <package >
   <metadata>
     <id>GravatarHelper.AspNetMVC.lib</id>
-    <version>0.0.1</version>
+    <version>0.0.2</version>
     <title>GravatarHelper.AspNetMVC.lib</title>
     <authors>Ahmed Oumezzine</authors>
     <owners>Ahmed Oumezzine</owners>
-    <projectUrl>https://github.com/ahmedOumezzine/PdfLibrary</projectUrl>
+    <projectUrl>https://github.com/ahmedOumezzine/GravatarHelper.AspNetMVC</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Gravatars are world-renowned avatar images that follow you to where you post, blog or from your apps. GravatarHelper.AspNetMVC.lib is a library class that allows you to generate your image using HTML Help.</description>
     <releaseNotes></releaseNotes>
@@ -17,8 +17,7 @@
         </dependencies>
   </metadata>
   <files>
-    <file src="bin\Debug\PdfLibrary.dll" target="lib\net45"  />
-    <file src="PdfLibrary\**" target="content\PdfLibrary" />
+    <file src="bin\Debug\GravatarHelper.AspNetMVC.lib.dll" target="lib\net45"  />
     </files>
   
 </package>

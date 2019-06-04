@@ -6,7 +6,7 @@ using System.Text;
 
 using System.Web.Mvc;
 
-namespace GravatarHelper
+namespace GravatarHelper.AspNetMVC.lib
 {
     public static class GravatarHelper
     {

@@ -1,4 +1,4 @@
-﻿namespace GravatarHelper
+﻿namespace GravatarHelper.AspNetMVC.lib
 {
     public class GravatarOptions
     {
