@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GravatarHelper.AspNetMVC", "GravatarHelper.AspNetMVC\GravatarHelper.AspNetMVC.csproj", "{335A5795-4ADA-4AA9-AF5B-E1F71062D763}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GravatarHelper.AspNetMVC.lib", "GravatarHelper.AspNetMVC.lib\GravatarHelper.AspNetMVC.lib.csproj", "{B05D2DA5-24BA-4B74-97D7-CE3CA75EE6F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{335A5795-4ADA-4AA9-AF5B-E1F71062D763}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{335A5795-4ADA-4AA9-AF5B-E1F71062D763}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{335A5795-4ADA-4AA9-AF5B-E1F71062D763}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{335A5795-4ADA-4AA9-AF5B-E1F71062D763}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B05D2DA5-24BA-4B74-97D7-CE3CA75EE6F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B05D2DA5-24BA-4B74-97D7-CE3CA75EE6F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B05D2DA5-24BA-4B74-97D7-CE3CA75EE6F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B05D2DA5-24BA-4B74-97D7-CE3CA75EE6F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BA7113F6-7E82-4845-8A66-776F64ABAFD8}
+	EndGlobalSection
+EndGlobal
